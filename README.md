@@ -1,2 +1,2 @@
-# P-30-Tower-Seige-2
-This is the second stage of Tower Seige project.
+# p5.play-boilerplate
+Boiler plate for p5.play
